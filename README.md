@@ -1,6 +1,6 @@
 # PortfolioV2
 
-![PortfolioV2](/images/portfolio1.gif)
+![PortfolioV2](/images/portfolio1)
 
 ### A clean portfolio template. (Readme will be updated soon)
 
